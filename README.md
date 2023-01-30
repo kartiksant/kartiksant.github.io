@@ -1,1 +1,7 @@
-# kartiksant1.github.io
+- 👋 Hi, I’m @kartiksant
+- 👀 I’m interested in the new technologies..
+- 🌱 I’m currently learning Computer Engineering.
+- 💞️ I’m looking to collaborate on project related to C++ or Java.
+- 📫 How to reach me https://www.linkedin.com/in/kartik-sant-983065193
+- 📝 Visit blog https://kartiksant.wordpress.com/
+- 💼 Visit Portfolio https://github.com/kartiksant
